@@ -98,4 +98,5 @@ Contribution
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Contributions are always welcome!
 
 ## License
-This project is licensed under the MIT License - <a href="LICENSE">MIT</a>.
+This project is licensed under the <a href="LICENSE">MIT</a>
+  License  
